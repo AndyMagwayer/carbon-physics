@@ -12,7 +12,7 @@ For example, consider the tasty campfire treat we call the s'more. What's it mad
 
 What is the chocolate made of? What's a marshmallow anyway? How were the graham crackers made? If you look at the list of ingredients on a chocolate bar, a package of marshmallows, and a box of graham crackers, you'll realize there's much more than meets the eye.
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/AndyMagwayer/carbon-physics/blob/main/atom-2.jpg)
 
 Scientists learned long ago that that's pretty much true about everything in the world around us: there's much more than meets the eye. In fact, the tiniest building blocks of matter — called atoms — can only be "seen" with powerful electron microscopes.
 
