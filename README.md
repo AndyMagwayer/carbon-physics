@@ -77,4 +77,4 @@ Atoms have a very long life; they can stay forever also. They can change through
 Protons and neutrons are present in the atom's nucleus, whereas electrons revolve around them. The number of protons present in the nucleus of an atom decides which particle is going to produce. For example, if there are 79 protons in the nucleus of the atom, then it makes gold. If there are 8 protons in the nucleus of the atom, then it makes oxygen gas. In the same manner, many other elements are formed on our planet.
 
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/AndyMagwayer/carbon-physics/blob/main/What-is-an-Atom.jpg)
