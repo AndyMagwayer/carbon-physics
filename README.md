@@ -63,7 +63,7 @@ The Neutron
 The neutron has no charge. They are present inside the nucleus of an atom, along with the protons. The number of neutrons influences the mass and the radioactivity of the atom.
 
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/AndyMagwayer/carbon-physics/blob/main/atom-4.gif)
 
 
 Subatomic Particles of an Atom
