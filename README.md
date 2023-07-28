@@ -42,7 +42,7 @@ Are you ready to peek inside an atom? Be sure to check out the following activit
 
 Need help visualizing what an atom might look like? Check out The First Image Ever of a Hydrogen Atom's Orbital Structure online. Read the article to learn more about how scientists captured this amazing image.Play with the Atom interactive online to drag protons, neutrons, and electrons onto an atom template to discover how different elements and isotopes are composed of these basic building blocks. What elements can you create?If you want to learn even more about atoms, check out the Atomic Structure tutorial online. It'll walk you through the basics of atoms and give you even more in-depth information about subatomic particles and how they interact to form all the matter around us!
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/AndyMagwayer/carbon-physics/blob/main/atom3.jpg)
 
 What is an Atom 
 
