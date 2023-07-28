@@ -34,7 +34,7 @@ Some elements even have more than one form. The other forms, called isotopes, ha
 
 
 
-![Image alt](https://github.com/AndyMagwayer/carbon-physics/blob/main/atom1.png)
+![Image alt](https://github.com/AndyMagwayer/carbon-physics/blob/main/atom-57e1bb583df78c9cce33a106.jpg)
 
 
 Try It Out
