@@ -1,7 +1,11 @@
 # carbon-physics
 An atom is the smallest particle of an element that can exist on its own. In other words, if you have a bar of solid gold, the smallest particle that could exist by itself and still be considered gold would be one atom of gold.
 
-HI in this repository i will try to demonstrate the work of atom, and what inside it, to be honest i really like this kind of projects,because since my childhood,
+## Deploy: 
+https://atom-inside-carbon-physics-magamed.netlify.app/
+
+# HI in this repository
+i will try to demonstrate the work of atom, and what inside it, to be honest i really like this kind of projects,because since my childhood,
 our family specilisez to the physics sphere and thay is why i really mad about job which i done, i hope , it will help u to increase your knowledge and get more and more
 usefull information for yourselves which can help u to be in the order in the future)
 
