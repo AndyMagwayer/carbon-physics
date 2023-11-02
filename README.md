@@ -2,6 +2,7 @@
 An atom is the smallest particle of an element that can exist on its own. In other words, if you have a bar of solid gold, the smallest particle that could exist by itself and still be considered gold would be one atom of gold.
 
 ## Deploy: 
+
 https://atom-inside-carbon-physics-magamed.netlify.app/
 
 # HI in this repository
